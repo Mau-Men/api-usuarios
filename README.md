@@ -1,6 +1,12 @@
 # API Users
 API em Node.js para a execução de funções CRUD em um banco de dados MongoDB.
 
+## Integrantes
+
+- Brenda Breitenbach
+- Eduardo Roscioli
+- Mauro Fantin
+
 ## Execução
 
 Para executar o projeto, siga estas etapas:
